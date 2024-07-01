@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139589040163",
+    "project_id": "dilvery-4dd66",
+    "storage_bucket": "dilvery-4dd66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139589040163:android:16c56d7ddebba451869996",
+        "android_client_info": {
+          "package_name": "com.example.dilvery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVdKATVTphLRRLCMUpKhAZdpvmoY1hMy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
